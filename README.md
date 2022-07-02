@@ -2,4 +2,5 @@
 This repo contains all my PowerShell utility scripts
 
 
-- copyFiles.ps1 - will prompt you for a filepath and number of copies to make, will then generate the copies of the file.
+- copyFiles.ps1   
+   - will prompt the user for a filepath and the number of copies to make from the file. It will then generate the copies of the file.
